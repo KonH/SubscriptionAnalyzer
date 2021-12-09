@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionAnalyzer.Tests", "SubscriptionAnalyzer.Tests\SubscriptionAnalyzer.Tests.csproj", "{A302EF61-9C91-4F45-8E01-1318A9427A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionAnalyzer.Samples", "SubscriptionAnalyzer.Samples\SubscriptionAnalyzer.Samples.csproj", "{2ED66204-E8F3-46BA-B379-38E5A1FBFD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionAnalyzer.Analyzer", "SubscriptionAnalyzer.Analyzer\SubscriptionAnalyzer.Analyzer.csproj", "{F62EF017-9A5A-4B3B-9C72-7F0E00DAAF67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A302EF61-9C91-4F45-8E01-1318A9427A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A302EF61-9C91-4F45-8E01-1318A9427A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A302EF61-9C91-4F45-8E01-1318A9427A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A302EF61-9C91-4F45-8E01-1318A9427A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED66204-E8F3-46BA-B379-38E5A1FBFD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED66204-E8F3-46BA-B379-38E5A1FBFD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED66204-E8F3-46BA-B379-38E5A1FBFD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED66204-E8F3-46BA-B379-38E5A1FBFD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62EF017-9A5A-4B3B-9C72-7F0E00DAAF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62EF017-9A5A-4B3B-9C72-7F0E00DAAF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62EF017-9A5A-4B3B-9C72-7F0E00DAAF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62EF017-9A5A-4B3B-9C72-7F0E00DAAF67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
